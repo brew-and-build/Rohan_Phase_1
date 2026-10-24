@@ -1,0 +1,24 @@
+{
+  "today": "2026-10-26",
+  "days": 7,
+  "wake": "07:30",
+  "sleep": "23:30",
+  "busy": [
+    {"title": "CSE 310 lecture", "kind": "class", "date": "2026-10-26", "start": "10:30", "end": "11:45"},
+    {"title": "CSE 310 lecture", "kind": "class", "date": "2026-10-28", "start": "10:30", "end": "11:45"},
+    {"title": "MAT 266 lecture", "kind": "class", "date": "2026-10-27", "start": "13:00", "end": "14:15"},
+    {"title": "MAT 266 lecture", "kind": "class", "date": "2026-10-29", "start": "13:00", "end": "14:15"}
+  ],
+  "shifts": [
+    {"weekday": "Mon", "start": "16:00", "end": "20:00", "title": "Library desk"},
+    {"weekday": "Tue", "start": "16:00", "end": "21:00", "title": "Library desk"},
+    {"weekday": "Thu", "start": "16:00", "end": "21:00", "title": "Library desk"},
+    {"weekday": "Sat", "start": "09:00", "end": "15:00", "title": "Library desk"}
+  ],
+  "tasks": [
+    {"title": "Lab 4 report", "course": "CSE 310", "kind": "assignment", "due": "2026-10-29T23:59", "hours": 3},
+    {"title": "Problem set 7", "course": "MAT 266", "kind": "assignment", "due": "2026-10-30T23:59", "hours": 2.5},
+    {"title": "Watch Lecture 14 recording", "course": "CSE 310", "kind": "lecture", "due": "2026-10-28T10:30", "hours": 1},
+    {"title": "Read Chapter 9 slides", "course": "MAT 266", "kind": "lecture", "due": "2026-10-29T13:00", "hours": 1}
+  ]
+}
